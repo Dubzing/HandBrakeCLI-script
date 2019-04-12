@@ -6,7 +6,8 @@ Python
 
 psutil
 
-Install psutil: python -m pip install psutil
+Install psutil with pip or place the files in your site-packages
+
 
 If you need help with the handbrake arguments here is the HandBrake documentation: https://handbrake.fr/docs/en/latest/cli/command-line-reference.html
 
