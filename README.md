@@ -1,6 +1,10 @@
 A Python script that copys dir and subdir from your Video folder. Great if you want to encode you Movies that is already in there place. Works great with your Plex library.
 
-Need:Python, psutil
+Need:
+
+Python
+
+psutil
 
 Install psutil: python -m pip install psutil
 
