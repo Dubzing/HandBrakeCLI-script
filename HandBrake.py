@@ -89,8 +89,8 @@ try:
     print("copying dir and subdir")
     time.sleep(2)
 except:
-    print("dir and subdir is already created")
-    print('OBS!!! If the dir and subdir is not completed del the ' + Encoding_end + ' file and restart script')
+    print("!!!OBS!!! dir and subdir is already created")
+    print('If the dir and subdir is not completed del the ' + Encoding_end + ' folder and restart script')
     time.sleep(4)
 
 firstTime = True
