@@ -1,4 +1,10 @@
-A script that copys dir and subdir from your Video folder. Great if you want to encode you Movies that is already in there place. Works great with your Plex library.
+A Python script that copys dir and subdir from your Video folder. Great if you want to encode you Movies that is already in there place. Works great with your Plex library.
+
+Need:
+Python
+psutil
+
+Install psutil: python -m pip install psutil
 
 If you need help with the handbrake arguments here is the HandBrake documentation: https://handbrake.fr/docs/en/latest/cli/command-line-reference.html
 
