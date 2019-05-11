@@ -112,6 +112,9 @@ for f in files:
                     firstTime = False
                     print("removed " + NewVideoDir)
                     os.remove(NewVideoDir)
+                else:
+                    print( "Already exists " + NewVideoDir)
+                    Start = False
             else:
                 print("removed " + NewVideoDir)
                 os.remove(NewVideoDir)
